@@ -1,2 +1,1 @@
-public class Book
-enum Format{}
+public class Book{} enum Format{}
